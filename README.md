@@ -3,7 +3,7 @@ Realização de consulta de dados através do AI Search
 
 Passo a passo:
 1. Acessar o Portal do Azure:
-Acesse o Portal do Azure: [https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search](https://portal.azure.com/learn.docs.microsoft.com?azure-portal=true) usando sua conta da Microsoft.
+Acesse o Portal do Azure: [Portal do Azure](https://portal.azure.com/learn.docs.microsoft.com?azure-portal=true) usando sua conta da Microsoft.
 
 2. Navegar até o Azure AI Search:
 No menu à esquerda, selecione "Serviços Cognitivos" e depois "Pesquisa de IA".
